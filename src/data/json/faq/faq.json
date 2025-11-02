@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "question": "Ürünü deneyimlemenin bir yolu var mı?",
+    "answer": "Platformu denemek için ücretsiz demo veya test hesabı oluşturabilir, temel özellikleri inceleyebilirsiniz."
+  },
+  {
+    "id": 2,
+    "question": "E-imzalı belgeler yasal olarak geçerli mi?",
+    "answer": "Evet. Platform üzerinden imzalanan tüm belgeler, 5070 sayılı Elektronik İmza Kanunu kapsamında geçerlidir."
+  },
+  {
+    "id": 3,
+    "question": "Sistemi kullanmak için mutlaka e-imza sahibi olmak gerekiyor mu?",
+    "answer": "Bazı işlemler için e-imza gerekir, ancak belge onayı ve sistem içi işlemler sınırlı olarak e-imzasız da yapılabilir."
+  },
+  {
+    "id": 4,
+    "question": "Üye olmadan belgemi imzalayabilir miyim?",
+    "answer": "Bazı belgeler için tek seferlik doğrulama veya misafir imza seçeneği sunuyoruz; böylece üye olmadan da imza atabilirsiniz."
+  },
+   {
+    "id": 5,
+    "question": "Hangi e-imza sağlayıcılarıyla uyumlu?",
+    "answer": "Platform, Türkiye’de geçerli tüm mobil ve USB tabanlı e-imza sertifikaları ile çalışır."
+  },
+   {
+    "id": 6,
+    "question": "Kullanım maliyeti nasıl hesaplanıyor?",
+    "answer": "Fiyatlandırma, kullanıcı sayısı ve aylık imza adedine göre değişen esnek paketler ile sunulur."
+  }
+
+
+]
