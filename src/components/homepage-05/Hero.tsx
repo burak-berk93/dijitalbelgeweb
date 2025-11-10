@@ -44,8 +44,7 @@ const Hero = () => {
               </RevealAnimation>
             </ul>
           </div>
-          {/* video  */}
-          <HeroPerspective />
+       
         </div>
       </div>
     </section>

@@ -22,14 +22,14 @@ export const navigationItems: NavigationItem[] = [
   {
     id: 'home',
     label: 'Ana Sayfa',
-    href: '#',
+    href: '/',
     hasDropdown: false,
     megaMenuComponent: 'HomeMegaMenu',
   },
   {
     id: 'pages',
     label: 'Hakkımızda',
-    href: '#',
+    href: '/about-01',
     hasDropdown: false,
     megaMenuComponent: 'PageMegaMenu',
   },

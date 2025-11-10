@@ -2,6 +2,7 @@ import Blog from '@/components/homepage-05/Blog';
 import Faq from '@/components/homepage-05/Faq';
 import Feature from '@/components/homepage-05/Feature';
 import Hero from '@/components/homepage-05/Hero';
+import Scenarios from '@/components/homepage-05/Scenarios';
 import Integration from '@/components/homepage-05/Integration';
 import Pricing from '@/components/homepage-05/Pricing';
 import OurMission from '@/components/homepage-05/OurMission'
