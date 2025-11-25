@@ -74,100 +74,42 @@ e-imzanızı kolayca atın.
               </div>
             </RevealAnimation>
           </div>
-          <div className="col-span-12 grid grid-cols-12 gap-x-0 gap-y-8 xl:col-span-8">
-            <div className="col-span-12 md:col-span-4">
-              <RevealAnimation delay={0.4}>
-                <div className="space-y-8">
-                  <p className="sm:text-heading-6 text-tagline-1 text-primary-50 font-normal">Company</p>
-                  <ul className="space-y-3 sm:space-y-5">
-                    <li>
-                      <Link href="/about-01" className="footer-link">
-                        About Us
-                      </Link>
-                    </li>
-                    <li>
-                      <Link href="/career" className="footer-link">
-                        Career
-                      </Link>
-                    </li>
-                    <li>
-                      <Link href="/case-study" className="footer-link">
-                        Case Studies
-                      </Link>
-                    </li>
-                    <li>
-                      <Link href="/contact-us" className="footer-link">
-                        Contact Us
-                      </Link>
-                    </li>
-                  </ul>
-                </div>
-              </RevealAnimation>
-            </div>
-            <div className="col-span-12 md:col-span-4">
-              <RevealAnimation delay={0.5}>
-                <div className="space-y-8">
-                  <p className="sm:text-heading-6 text-tagline-1 text-primary-50 font-normal">Support</p>
-                  <ul className="space-y-3 sm:space-y-5">
-                    <li>
-                      <Link href="/faq" className="footer-link">
-                        FAQ
-                      </Link>
-                    </li>
-                    <li>
-                      <Link href="/documentation" className="footer-link">
-                        Documentation
-                      </Link>
-                    </li>
-                    <li>
-                      <Link href="/tutorial" className="footer-link">
-                        Tutorial
-                      </Link>
-                    </li>
-                    <li>
-                      <Link href="/support" className="footer-link">
-                        Support
-                      </Link>
-                    </li>
-                  </ul>
-                </div>
-              </RevealAnimation>
-            </div>
-            <div className="col-span-12 md:col-span-4">
-              <RevealAnimation delay={0.6}>
-                <div className="space-y-8">
-                  <p className="sm:text-heading-6 text-tagline-1 text-primary-50 font-normal">Legal Policies</p>
-                  <ul className="space-y-3 sm:space-y-5">
-                    <li>
-                      <Link href="/terms-conditions" className="footer-link">
-                        Terms & Conditions
-                      </Link>
-                    </li>
-                    <li>
-                      <Link href="/privacy" className="footer-link">
-                        Privacy Policy
-                      </Link>
-                    </li>
-                    <li>
-                      <Link href="/refund-policy" className="footer-link">
-                        Refund Policy
-                      </Link>
-                    </li>
-                    <li>
-                      <Link href="/gdpr" className="footer-link">
-                        GDPR Compliance
-                      </Link>
-                    </li>
-                    <li>
-                      <Link href="/affiliate-policy" className="footer-link">
-                        Affiliate Policy
-                      </Link>
-                    </li>
-                  </ul>
-                </div>
-              </RevealAnimation>
-            </div>
-          </div>
+       <div className="col-span-12 grid grid-cols-12 gap-x-0 gap-y-8 xl:col-span-8">
+  <div className="col-span-12 md:col-span-12">
+    <RevealAnimation delay={0.4}>
+      <div className="space-y-8">
+        <p className="sm:text-heading-6 text-tagline-1 text-primary-50 font-normal">
+          Dijital Belge
+        </p>
+
+        <ul className="flex flex-wrap gap-4 sm:gap-6">
+          <li>
+            <Link href="/about-01" className="footer-link">
+              Ana Sayfa
+            </Link>
+          </li>
+          <li>
+            <Link href="/career" className="footer-link">
+              Fiyatlandırma
+            </Link>
+          </li>
+          <li>
+            <Link href="/case-study" className="footer-link">
+              Hemen Başla
+            </Link>
+          </li>
+          <li>
+            <Link href="/contact-us" className="footer-link">
+              Ücretsiz İmzala
+            </Link>
+          </li>
+        </ul>
+
+      </div>
+    </RevealAnimation>
+  </div>
+</div>
+
         </div>
         <div className="relative pt-[26px] pb-[100px] text-center">
           <FooterDivider />

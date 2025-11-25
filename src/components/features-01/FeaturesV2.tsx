@@ -28,7 +28,7 @@ const FeaturesV2 = () => {
         </div>
         <div className="md:flex-1 flex flex-col lg:items-start lg:text-left">
           <RevealAnimation delay={0.2}>
-            <h2 className="mb-3">Designed to deliver Tangible outcomes</h2>
+            <h2 className="mb-3">Designed to delivers Tangible outcomes</h2>
           </RevealAnimation>
           <RevealAnimation delay={0.3}>
             <p className="mb-6">

@@ -1,6 +1,6 @@
 import Client from '@/components/pricing-02/Client';
 import Faq from '@/components/pricing-02/Faq';
-import Pricing from '@/components/pricing-02/Pricing';
+import Pricing from '@/components/homepage-05/Pricing';
 import CTAV1 from '@/components/shared/cta/CTAV1';
 import FooterOne from '@/components/shared/footer/FooterOne';
 import NavbarOne from '@/components/shared/header/NavbarOne';
@@ -23,19 +23,9 @@ const Pricing02 = () => {
         megaMenuColor="!bg-accent dark:!bg-background-9"
       />
       <main className="bg-background-1 dark:bg-background-6">
-        <PageHero title="Pricing 02" heading="Pricing 02 " link="/pricing-02" />
+        <PageHero title="fiyatlandirma" heading="Fiyatlandırma " link="/fiyatlandirma" />
         <Pricing />
-        <Client />
-        <Faq />
-        <CTAV1
-          className="dark:bg-background-5 bg-background-1"
-          badgeText="Get started"
-          badgeClass="!badge-yellow-v2"
-          ctaHeading="Build a complete website using the assistance"
-          description="Start your free trial today and see your ideas come to life easily and creatively."
-          ctaBtnText="Get started"
-          btnClass="btn-primary hover:btn-secondary dark:hover:btn-accent"
-        />
+      
       </main>
       <FooterOne />
     </Fragment>

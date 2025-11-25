@@ -26,24 +26,12 @@ export const navigationItems: NavigationItem[] = [
     hasDropdown: false,
     megaMenuComponent: 'HomeMegaMenu',
   },
-  {
-    id: 'pages',
-    label: 'Hakkımızda',
-    href: '/about-01',
-    hasDropdown: false,
-    megaMenuComponent: 'PageMegaMenu',
-  },
-  {
-    id: 'about',
-    label: 'Senaryolar',
-    href: '#',
-    hasDropdown: false,
-    megaMenuComponent: 'AboutMenu',
-  },
+
+
   {
     id: 'services',
     label: 'Fiyatlandırma',
-    href: '#',
+    href: '/fiyatlandirma',
     hasDropdown: false,
     megaMenuComponent: 'ServicesMenu',
   },
@@ -183,7 +171,7 @@ export const pageMegaMenuColumns: MegaMenuColumn[] = [
       { id: 'team-2', label: 'Our team 02', href: '/our-team-02' },
       { id: 'team-details', label: 'Team details', href: '/team/cody-fisher' },
       { id: 'pricing-1', label: 'Pricing Page 01', href: '/pricing-01' },
-      { id: 'pricing-2', label: 'Pricing Page 02', href: '/pricing-02' },
+      { id: 'pricing-2', label: 'Pricing Page 02', href: '/fiyatlandirma' },
       { id: 'pricing-3', label: 'Pricing Page 03', href: '/pricing-03' },
     ],
   },
